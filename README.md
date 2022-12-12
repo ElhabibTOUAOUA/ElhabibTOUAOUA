@@ -7,7 +7,7 @@
     <a href="https://www.instagram.com/elhabib.to"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
   
-  <img src="https://github.com/ElhabibTOUAOUA/elhabibtouaoua/blob/master/profile-img.png" align="right" width="25%"/>
+  <img src="https://github.com/ElhabibTOUAOUA/elhabibtouaoua/blob/master/personal-profile-img.png" align="right" width="25%"/>
 
 I'm a IT Support Engineer & System Administrator @ Clinic Ibn-Hayane. I'm also a Junior Frontend Web Developer who loves to create great looking websites and learning new catting-edge technologies. I'm currently learning ReactJS and NodeJS. I'm looking to collaborate on any project that will help me to improve my skills and help others.
 
