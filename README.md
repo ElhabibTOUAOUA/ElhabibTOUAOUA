@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/elhabib-touaoua-14994b194"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <!-- <a href="https://www.youtube.com/c/mohamedabusrea"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a> -->
     <a href="https://www.facebook.com/elhabib.To"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
-    <a href="https://www.instagram.com/mohamed_abusrea"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+    <a href="https://www.instagram.com/elhabib.to"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
   
   <img src="https://github.com/ElhabibTOUAOUA/elhabibtouaoua/blob/master/profile-img.png" align="right" width="25%"/>
