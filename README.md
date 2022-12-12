@@ -9,7 +9,7 @@
   
   <img src="https://github.com/ElhabibTOUAOUA/elhabibtouaoua/blob/master/personal-profile-img.png" align="right" width="25%"/>
 
-I'm a IT Support Engineer & System Administrator @ Clinic Ibn-Hayane. I'm also a Junior Frontend Web Developer who loves to create great looking websites and learning new catting-edge technologies. I'm currently learning ReactJS and NodeJS. I'm looking to collaborate on any project that will help me to improve my skills and help others.
+I'm a IT Support Engineer & System Administrator @ Clinic Ibn-Hayane. I'm also a Junior Frontend Web Developer who loves to create great looking websites and learning new Cutting Edge technologies. I'm currently learning ReactJS and NodeJS. I'm looking to collaborate on any project that will help me to improve my skills and help others.
 
 -   🔭 I'm a software developer [@Deliveryhero](https://www.deliveryhero.com/) in Berlin, Germany
 -   🔍 I have 1 live app:
